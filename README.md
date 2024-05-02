@@ -8,6 +8,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/openclarity/vmclarity.svg)](https://pkg.go.dev/github.com/openclarity/vmclarity)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/openclarity/vmclarity/main-merge.yml?style=flat-square&branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/openclarity/vmclarity)](https://goreportcard.com/report/github.com/openclarity/vmclarity)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftomersein%2Fvmclarity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftomersein%2Fvmclarity?ref=badge_shield)
 
 VMClarity is an open source tool for agentless detection and management of Virtual Machine
 Software Bill Of Materials (SBOM) and security threats such as vulnerabilities, exploits, malware, rootkits, misconfigurations and leaked secrets.
@@ -109,3 +110,6 @@ You can view our code of conduct [here](CODE_OF_CONDUCT.md).
 # License
 
 [Apache License, Version 2.0](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftomersein%2Fvmclarity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftomersein%2Fvmclarity?ref=badge_large)
